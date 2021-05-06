@@ -10,4 +10,4 @@ At a Thundercloud..
 To zap another monkey.
 
 ```
-- Dedomkop
+- DeDomkop
