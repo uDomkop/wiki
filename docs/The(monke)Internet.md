@@ -1,11 +1,14 @@
-# The(monke)Internet
 ```
+
 The internet.
 
 Bunch of monkeys..
 
-Throwing lightning..
+Throwing lightning.
 
-At a Thundercloud, that zaps other monkeys
+At a Thundercloud..
+
+That zaps other monkeys.
+
 ```
-Dedomkop
+- Dedomkop
