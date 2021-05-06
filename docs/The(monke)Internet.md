@@ -1,7 +1,6 @@
+# The internet
+
 ```
-
-The internet.
-
 Bunch of monkeys..
 
 Throwing lightning.
