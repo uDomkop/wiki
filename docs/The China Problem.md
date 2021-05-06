@@ -9,8 +9,3 @@ import Lib.Wiki.Tibet; //\O/
 .China = new Country("China", Geography.China.PRC[2020] , Languages.China[0] , Law.China.PRC , Other); //or Geography.China.Trimmed[0]
 ```
 - DeDomkop
-
-```
-$China = new China Geography , Languages , Confusius , Other };
-```
-- DeDomkop
