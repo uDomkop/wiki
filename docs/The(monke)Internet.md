@@ -8,7 +8,7 @@ Throwing lightning.
 
 At a Thundercloud..
 
-To zaps that other monkey.
+To zap that other monkey.
 
 ```
 - Dedomkop
