@@ -21,7 +21,7 @@ Those Thoughts Came And Went. //This is the moment I went "WTF?, what am I doing
 Im using text to see how my brain works. //first wrote this: "Im using text to see how my brain is(always me)/was(always changing).."
 
 //--
-Commit logs should tell a story.
+the commit logs should tell a story.
 --//
 
 ```
