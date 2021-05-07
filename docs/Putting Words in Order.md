@@ -6,8 +6,7 @@ Is hard.
 // Conversational convention!?. (-_-)ゞ
 Test..!
 
-Writing them down is Even harder;
-//And heres why I think that may be.
+Writing them down is Even harder. //And heres why I think that may be.
 Test..! //Why?, I read back for context.
 Test..! //Typing it feels (neutral)
 Test..! //I focus on typing it faster, look down.
