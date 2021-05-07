@@ -23,8 +23,3 @@ Im using text to see how my brain works. //first wrote this: "Im using text to s
 
 ```
 DeDomkop
-
-```
-Geography.China.PRC(2020)
-```
-DeDomkop
