@@ -1,4 +1,5 @@
 # Putting Words in Order
+
 ```
 Is hard. 
 // Humanity solved it with grammar rules?
@@ -25,4 +26,4 @@ the commit logs should tell a story.
 --//
 
 ```
-DeDomkop
+- DeDomkop
