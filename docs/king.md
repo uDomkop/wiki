@@ -12,6 +12,6 @@ How are your subjects?
 Who cares you fool?
 
 ```
-And so the fool am I.
+And so the fool I am.
 ```
 - dedomkop
