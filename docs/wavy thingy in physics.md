@@ -4,4 +4,4 @@
 - Goes up and down
 - -1 to 1
 
-Were just talking about a stupid line.
+Were just talking about a stupid squigly line.
