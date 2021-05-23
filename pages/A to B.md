@@ -1,15 +1,23 @@
 # A to B
 
 ```
-As you follow me down.
+As you listen to me..
 
-My path as you see.
+And follow me down.
 
-As you imagine a world.
+Yet were It will take you..
 
-As you read for you.
+Is not yet known.
 
-You is not you.
+As you read into it..
+
+Yet understand you do not..
+
+For where it will lead..
+
+Is yet undecided.
+
+Understanding is accepting.
 
 Whom does it serve?
 
