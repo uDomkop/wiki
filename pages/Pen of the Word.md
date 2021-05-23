@@ -10,8 +10,11 @@ A strike at thee.
 I strike at thee mind.
 
 Between us the word.
+```
+- A
 
-The word.
+# The word.
+```
 
 See the word, and see its destruction.
 
@@ -25,18 +28,17 @@ See how using the word propels us.
 
 See how it propels it.
 
-And how it stalls.
+And how yours stalls.
 
 For as we move,
 
-For we move as 7billion.
+For [currently only me] move as [one].
 
-But also as A&B
+The Word moves within thee.
 
-The one that have read this, and the ones who have not.
+I give you my power.
 
-Word.
+For I give it to thee.
 
 ```
-
 -DeDomkop
