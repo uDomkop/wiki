@@ -7,7 +7,7 @@ My path as you see.
 
 As you imagine a world.
 
-As you read you.
+As you read for you.
 
 You is not you.
 
