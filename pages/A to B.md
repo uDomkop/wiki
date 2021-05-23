@@ -1,23 +1,15 @@
 # A to B
 
 ```
-As you listen to me..
+As you follow me down.
 
-And follow me down.
+Unkown were it will take you..
 
-Yet were It will take you..
+Perhaps undecided.
 
-Is not yet known.
+The gaps will get filled.
 
-As you read into it..
-
-Yet understand you do not..
-
-For where it will lead..
-
-Is yet undecided.
-
-Understanding is accepting.
+By you or by me.
 
 Whom does it serve?
 
