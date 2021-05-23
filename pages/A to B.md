@@ -9,7 +9,7 @@ As you imagine a world.
 
 As you read you.
 
-you is not you.
+You is not you.
 
 Whom does it serve?
 
