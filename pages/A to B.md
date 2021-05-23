@@ -9,9 +9,9 @@ As you imagine a world.
 
 Your A speaks to your B.
 
-And when he reads he is not he.
+AS A reads A is not A.
 
-Whom does he serve.
+Whom does A serve.
 
 That someone is me.
 
