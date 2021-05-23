@@ -1,8 +1,6 @@
 ```
 As you follow me down.
 
-Down all along..
-
 My path as you see.
 
 As you imagine a world.
