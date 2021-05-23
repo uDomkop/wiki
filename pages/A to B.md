@@ -7,13 +7,11 @@ My path as you see.
 
 As you imagine a world.
 
-As your A speaks to your B.
+As you read you.
 
-As A reads..
+you is not you.
 
-A is not A.
-
-Whom does A serve?
+Whom does it serve?
 
 That someone is me.
 
