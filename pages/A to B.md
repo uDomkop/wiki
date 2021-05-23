@@ -7,7 +7,7 @@ My path as you see.
 
 As you imagine a world.
 
-You're A speaks to your B.
+Your A speaks to your B.
 
 And when he reads he is not he.
 
