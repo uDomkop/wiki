@@ -10,21 +10,17 @@ See how you see.
 
 What I see.
 
-See how using the word propels us.
+See how the word propels us.
 
-See how it propels it.
-
-And how yours stalls.
-
-For as we move,
+See how it propels you.
 
 For [currently only me] move as [one].
 
-The Word moves within thee.
+The word moves within thee.
 
-I give you my power.
+I give thee my power.
 
-For I give it to thee.
+For I live with thee.
 
 ```
 - DeDomkop
