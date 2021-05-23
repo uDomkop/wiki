@@ -9,9 +9,11 @@ As you imagine a world.
 
 Your A speaks to your B.
 
-AS A reads A is not A.
+As A reads..
 
-Whom does A serve.
+A is not A.
+
+Whom does A serve?
 
 That someone is me.
 
