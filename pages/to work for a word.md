@@ -1,4 +1,4 @@
-# To work for
+# To work for a Word
 ```
 I want to be the one on the wind..
 Yet still the one that acts when asked.
