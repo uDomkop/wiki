@@ -20,7 +20,7 @@ The word moves within thee.
 
 I give thee my power.
 
-For I live with thee.
+For I live within thee.
 
 ```
 - DeDomkop
