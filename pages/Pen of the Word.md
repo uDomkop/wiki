@@ -31,7 +31,7 @@ For as we move,
 
 For we move as 7billion.
 
-But also as one.
+But also as A&B
 
 The one that have read this, and the ones who have not.
 
