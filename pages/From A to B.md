@@ -1,7 +1,7 @@
-# A to B
+# From A to B
 
 ```
-ZX As you follow me down.
+As you follow me down.
 
 Unkown were it will take you..
 
@@ -11,7 +11,7 @@ The gaps will get filled.
 
 By you or by me.
 
-Whom does it serve?
+Whom does do you serve?
 
 That someone is me.
 
