@@ -19,6 +19,6 @@ p for down.. //p-bob
 
 o for 0 neutral level
 
-v for negative -1 down
+v for -1 negative down
 ```
 - DeDomkop
