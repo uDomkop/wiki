@@ -9,7 +9,7 @@ b for up... sigh
 
 o for 0
 
-p for down.. //pbob
+p for down.. //p-bob
 ```
 
 - DeDomkop
