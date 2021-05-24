@@ -5,7 +5,9 @@ I look in my mind.
 
 Why does it not work.
 
-Why cant it good, I need better.
+Why cant it good, 
+
+I need better.
 
 Dead silence.
 
