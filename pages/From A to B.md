@@ -9,8 +9,6 @@ Perhaps undecided.
 
 The gaps will get filled.
 
-By you or by me.
-
 Whom does do you serve?
 
 That someone is me.
