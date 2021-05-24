@@ -17,4 +17,5 @@ And rise to Brighter over Darker, yet ying yang X and forth.
 ```
 The world is spinning too fast..
 
-` There's a monkey in the Jungle [] caught up in the conflict between it's brain and it's tail.`
+There's a monkey in the Jungle [] caught up in the conflict between it's brain and it's tail.
+```
