@@ -15,10 +15,10 @@ p for down.. //p-bob
 - DeDomkop
 
 ```
-^ for 1 up
+^ for 1 postitive up
 
-o for 0 level //zero |--v-^-/  zero is not negative. its neutral|
+o for 0 neutrol level //zero |--v-^-/  zero is not negative. its neutral|
 
-v for -1 down
+v for negative -1 down
 ```
 - DeDomkop
