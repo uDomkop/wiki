@@ -7,11 +7,13 @@ Why does it not work.
 
 Why cant it be as it was.
 
-dead.
+Dead silence.
 
 Who's dead, was it my mind?
 
-No I was aware what happend in there..
+No I was aware as it happend..
+
+And I'm still kicking
 
 ```
 - dedomkop
