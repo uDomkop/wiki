@@ -9,13 +9,14 @@ dead.
 
 Who's dead, was it my mind?
 
-No I was aware what happend in there,
+No I was aware what happend in there..
 
 ```
+- dedomkop
 
-Would this be possible?
+
 ```
-A went out.
-
-B remade A as best he could. //Or in his image, not all of us are the same.
-````
+Can A go out.
+And then be restored by B?
+```
+- me
