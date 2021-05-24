@@ -17,7 +17,7 @@ p for down.. //p-bob
 ```
 ^ for up
 
-up
+o for 0
 
 v for down
 ```
