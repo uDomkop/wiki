@@ -2,14 +2,14 @@
 
 ## About
 
-Dak notation is meant for a standard way to represent a (-1 to 0 to 1) so we know to first sort relevancy.
+Dak notation is meant for a standard way to represent (-1 to 0 to 1) so we know to sort relevancy.
 
 ```
 b for up... sigh
 
 o for 0
 
-p for down.. / No stupid //pbob
+p for down.. //pbob
 ```
 
 - DeDomkop
