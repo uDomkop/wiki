@@ -1,12 +1,8 @@
 # Putting Words in Order
 
 ```
-Is hard. 
-// Humanity solved it with grammar rules?
-// Cause Effect Logic
-// Conversational convention!?. (-_-)ゞ
+Putting Words in order is hard. 
 Test..!
-
 Writing them down is Even harder. //And heres why I think that may be.
 Test..! //Why?, I read back for context.
 Test..! //Typing it feels (neutral)
