@@ -16,5 +16,5 @@ Dak notation is meant to be standard way to represent (-1 to 0 to 1)
 
 ### Why? 
 
-I dont like -1 taking up 2 chars vs 1 taking 1.
+I dont like `-1` taking up 2 chars vs `1` taking 1.
 
