@@ -15,10 +15,10 @@ p for down.. //p-bob
 - DeDomkop
 
 ```
-^ for up
+^ for 1 up
 
 o for 0
 
-v for down
+v for -1 down
 ```
 - DeDomkop
