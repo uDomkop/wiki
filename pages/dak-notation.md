@@ -17,7 +17,7 @@ p for down.. //p-bob
 ```
 ^ for 1 postitive up
 
-o for 0 neutrol level //zero |--v-^-/  zero is not negative. its neutral|
+o for 0 neutral level
 
 v for negative -1 down
 ```
