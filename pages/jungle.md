@@ -1,6 +1,6 @@
-What types the Monkey while typing to Shakespeare,
+What types an AI (Monkey) while typing to Shakespeare,
  but all otherworks.
 
-What if you thought the monke to read,
-What do those who read Shakespeare type?
-What of those intelligence who read it.
+What if you teach it to read,
+And make them write the exact works of Shakespeare
+From only seeing the Hollywood movies.
