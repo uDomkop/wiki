@@ -3,7 +3,7 @@
 ```
 The world is spinning too fast..
 
-And there's monkeys in the Jungle [] caught up in the conflict between their brain and their tail.
+For there's a Monkey in conflict with their brain.
 
 ```
 - DeDomkop.
