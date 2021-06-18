@@ -3,7 +3,8 @@
 ```
 They reach within limitation
 
-And rise to Brighter over Darker, yet ying yang X and forth.
+And rise to Brighter over Dark
+Attuning yon and ying and yang.
 ```
 - DeDomkop //fuck Tijmen.china tripped something here
 
