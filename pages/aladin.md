@@ -14,4 +14,4 @@ Ol' Devil.
 --//
 
 ```
-- dedomkop
+- deDomkop
