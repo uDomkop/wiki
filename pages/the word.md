@@ -23,4 +23,4 @@ I give thee my power.
 For I live within thee.
 
 ```
-- DeDomkop
+- deDomkop
