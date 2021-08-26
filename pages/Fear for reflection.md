@@ -9,7 +9,8 @@ Why cant it good,
 
 I need better.
 
-Dead silence.
+Dead silence. // Can A go out.
+//And then be restored by B?
 
 Who's dead, was it my mind?
 
@@ -18,11 +19,4 @@ No I was aware as it happend..
 And I'm still kicking
 
 ```
-- dedomkop
-
-
-```
-Can A go out.
-And then be restored by B?
-```
-- me
+- deDomkop
