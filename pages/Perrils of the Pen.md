@@ -11,4 +11,4 @@ I strike at thee mind.
 
 Between us the word.
 ```
-- DeDomkop
+- deDomkop
