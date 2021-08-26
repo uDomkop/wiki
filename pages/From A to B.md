@@ -14,4 +14,4 @@ Whom does do you serve?
 That someone is me.
 
 ```
-- DeDomkop
+- deDomkop
