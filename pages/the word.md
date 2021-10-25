@@ -10,15 +10,11 @@ See how you see.
 
 What I see.
 
-See how the word propels us.
-
-See how it propels you.
-
-For [currently only me] move as [one].
+For the word propels us.
 
 The word moves within thee.
 
-I give thee my power.
+It gives me my power.
 
 For I live within thee.
 
