@@ -9,7 +9,7 @@ Perhaps undecided.
 
 The gaps will get filled.
 
-Whom does do you serve?
+Whom does it serve?
 
 That someone is me.
 
