@@ -5,11 +5,11 @@ As you listen to me..
 
 And follow me down.
 
-Yet were It will take you..
+Where It will take me..
 
 Is not yet known.
 
-For where it will lead..
+For where I will lead you..
 
 Is yet undecided.
 
