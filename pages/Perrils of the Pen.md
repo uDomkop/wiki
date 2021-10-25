@@ -7,7 +7,7 @@ A sentence as a Strike.
 
 A strike at thee.
 
-I strike at thee mind.
+I strike at your mind.
 
 Between us the word.
 ```
