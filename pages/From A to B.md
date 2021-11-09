@@ -5,9 +5,9 @@ As you follow me down.
 
 Unkown were it will take you..
 
-Perhaps undecided.
+A path undecided.
 
-The gaps will get filled.
+With gaps to be filled.
 
 Whom does it serve?
 
