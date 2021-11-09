@@ -15,11 +15,5 @@ Test.!
 Why did I write that. //^ The slashes are written as I read back
 Those Thoughts Came And Went. //This is the moment I went "WTF?, what am I doing"
 
-Im using text to see how my brain works. //first wrote this: "Im using text to see how my brain is(always me)/was(always changing).."
-
-//--
-the commit logs should tell a story.
---//
-
 ```
 - DeDomkop
