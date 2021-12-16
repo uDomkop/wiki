@@ -1,4 +1,4 @@
-# and I was the richest man on mars
+# And I was the richest man on mars
 
 A hand full of beans and I was the richest man on Mars.
 
