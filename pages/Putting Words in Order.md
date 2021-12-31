@@ -8,7 +8,8 @@ Test..! //Why?, I read back for context.
 Test..! //Typing it feels (neutral)
 Test..! //I focus on typing it faster, look down.
 Test..! //Ah Was using The Wrong Technique, My slower self thought one...
-Test..! //Better.. ;) //Typing speed help my thinking speed?
+Test..! //Better.. ;) //Typing speed help my thinking speed? //no
+//Test..! language code excuting
 <Hello How Are We Doing Today.> //Not me?
 Hello!
 Test.!
