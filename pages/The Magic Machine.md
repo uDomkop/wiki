@@ -8,4 +8,10 @@ Thoughts in the billions
 
 Lightning in a rock,
 
+Imagination limited,
+
+But stuck to its surface,
+
+Vibrating Aether
+
 Rockin it toghter
