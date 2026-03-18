@@ -15,6 +15,6 @@ But stuck to its surface,
 
 Vibrating Aether
 
-Rockin it toghter
+Rockin it together
 ```
 - deDomkop
