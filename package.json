@@ -1,0 +1,10 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "marked": "^9.1.6"
+  }
+}
