@@ -53,7 +53,7 @@ function pageTemplate(title, body) {
 </html>`;
 }
 
-function indexTemplate(links) {
+function indexTemplate(intro, links) {
   const listItems = links
     .map(({ title, file }) => `    <li><a href="${file}">${escapeHtml(title)}</a></li>`)
     .join('\n');
@@ -85,7 +85,8 @@ function indexTemplate(links) {
 </head>
 <body>
   <article class="markdown-body">
-    <h1>Wiki</h1>
+    ${intro}
+    <h2>Pages</h2>
     <ul>
 ${listItems}
     </ul>
@@ -112,7 +113,8 @@ function slugify(name) {
 
 fs.mkdirSync(DOCS_DIR, { recursive: true });
 
-const mdFiles = fs.readdirSync(PAGES_DIR).filter(f => f.endsWith('.md'));
+const INDEX_FILE = 'index.md';
+const mdFiles = fs.readdirSync(PAGES_DIR).filter(f => f.endsWith('.md') && f !== INDEX_FILE);
 const pages = [];
 
 for (const mdFile of mdFiles) {
@@ -132,5 +134,11 @@ for (const mdFile of mdFiles) {
 // Sort pages alphabetically
 pages.sort((a, b) => a.title.localeCompare(b.title));
 
-fs.writeFileSync(path.join(DOCS_DIR, 'index.html'), indexTemplate(pages), 'utf8');
+// Render index.md as intro if it exists
+const indexMdPath = path.join(PAGES_DIR, INDEX_FILE);
+const intro = fs.existsSync(indexMdPath)
+  ? marked(fs.readFileSync(indexMdPath, 'utf8'))
+  : '';
+
+fs.writeFileSync(path.join(DOCS_DIR, 'index.html'), indexTemplate(intro, pages), 'utf8');
 console.log(`  → docs/index.html (${pages.length} pages)`);
