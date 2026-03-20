@@ -58,7 +58,8 @@ Alright, I've now read all 26 pages. Here's my exploration of the whole wiki, pi
 
 **The Magic Machine** — A poem about the computer (or phone). A bright surface, billions of thoughts contained within, lightning trapped in rock (silicon chips). Imagination is limitless but stuck to the screen's surface. "Vibrating Aether / Rockin it together" — the machine as a mystical object that channels something ancient through something modern.
 
-**the man** — Just a police officer emoji. That's it. "The man" needs no further definition. Perfect.
+**the man** — Just a police officer emoji. That's it. "The man" needs no further definition. Perfect. 
+/* Author note: the man is meant to be opressive */
 
 **the word** — The most ambitious poem. The word can destroy and inspire. It propels, it moves within you. The speaker claims to live *inside* the reader through language. This is about the almost supernatural power of written language — once a word is in your head, the author is in there too. It's a claim about the intimacy and invasion of communication.
 
