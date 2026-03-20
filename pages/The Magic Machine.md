@@ -15,6 +15,10 @@ But stuck to its surface,
 
 Vibrating Aether
 
+Without Monkey
+
+Just a Rock
+
 Rockin it together
 ```
 - deDomkop
