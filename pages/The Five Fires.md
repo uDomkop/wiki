@@ -1,9 +1,9 @@
 # The Five Fires
 
 ```
-Five fires burning togheter heath the longhouse better.
+Five fires burning together give more light and warmth,
 
-Than two trying to exstinguish eachother
+than two fires trying to extinguish each other.
 ```
 
 
