@@ -1,8 +1,8 @@
 # Persistence
 ```
 The 🧠 asks why.
-Fibonacci probably knows
-circa 1170
+Fibonacci doesnt know
+circa 1155
 And yet the 🌳 grows.
 ```
 - deDomkop
