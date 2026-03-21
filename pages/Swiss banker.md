@@ -1,4 +1,4 @@
-# a Swiss banker
+# Swiss banker
 ```
 Thats like morality 
 defined by a Swiss banker
