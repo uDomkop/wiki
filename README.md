@@ -1,5 +1,3 @@
-# README
-
 ```
 The world is spinning too fast..
 
