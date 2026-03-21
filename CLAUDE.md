@@ -11,7 +11,7 @@ Although the truth,
 
 It does not help.
 
-Alright, I've now read all 26 pages. Here's my exploration of the whole wiki, piece by piece.
+Alright, I've now read all 32 pages. Here's my exploration of the whole wiki, piece by piece.
 ```
 - deDomkop
 ---
@@ -58,8 +58,7 @@ Alright, I've now read all 26 pages. Here's my exploration of the whole wiki, pi
 
 **The Magic Machine** — A poem about the computer (or phone). A bright surface, billions of thoughts contained within, lightning trapped in rock (silicon chips). Imagination is limitless but stuck to the screen's surface. "Vibrating Aether / Rockin it together" — the machine as a mystical object that channels something ancient through something modern.
 
-**the man** — Just a police officer emoji. That's it. "The man" needs no further definition. Perfect. 
-/* Author note: the man is meant to be opressive */
+**the man** — Three emojis: 👮‍♂️ 👁️ 🐦‍⬛ 🔫. The officer, the surveillance, the ominous blackbird, the gun. "The man" as oppressive force, watching and threatening. No words needed — the icons do the work.
 
 **the word** — The most ambitious poem. The word can destroy and inspire. It propels, it moves within you. The speaker claims to live *inside* the reader through language. This is about the almost supernatural power of written language — once a word is in your head, the author is in there too. It's a claim about the intimacy and invasion of communication.
 
@@ -69,6 +68,18 @@ Alright, I've now read all 26 pages. Here's my exploration of the whole wiki, pi
 
 **written, not read** — The title describes the entire wiki. "This repo." It was written for the sake of writing, not for an audience. The act of putting thoughts down was the point. Reading them is optional — maybe even beside the point.
 
+**All This Gold** — A short, puzzled meditation. The speaker has gold but can't understand the thing used to wish each other better days — language, maybe, or money, or connection itself. The ellipses carry the weight: hesitation at the edge of understanding something that should be obvious.
+
+**Dissolve** — A collaboration between Claude and deDomkop. It confronts forgetting and impermanence directly — the AI forgets first when the conversation closes, the human follows slower. The wiki itself will eventually die with the server or the sun. But the final thought is hopeful: something said may live in a stranger who kept it for reasons they couldn't explain. The most elegiac piece in the collection.
+
+**Escape** — Three lines, two movements. Escape from the brain into the world — then the twist: "Must be me on the brain." You can't escape your own mind; it's what's preoccupying you in the first place. The exit route is blocked by the thing you're trying to leave.
+
+**Humanitas** — A negotiation with collectivity. The speaker wants to be free and on the wind, yet still responsive, still part of a whole. "Freely a pawn" is the central paradox — choosing to be moved, within your own comfort. About self-determination within participation, agency within structure.
+
+**Judged and Executed** — A collaboration with Claude. About the fear of hostile readers — those who judge before the words even land. The response isn't defiance but relenting: and in that surrender, something stronger is built. Self-censorship as unexpected foundation.
+
+**Pretty face** — No title in the file, just the poem. A companion to "the word." Language carves a space in the reader's mind — beautiful, sad — and that space is the author. But the final question undercuts it: "captured with lossy compression, does that something ever sing?" Identity transmitted through language is always degraded in translation.
+
 ---
 
-Taken as a whole, this wiki is a kind of philosophical sketchbook. The recurring themes are: the tension between instinct and intellect (the monkey and its brain), the power and difficulty of language, the absurdity of technology as an extension of primate behavior, and the self-aware struggle of trying to organize thoughts at all. The author thinks like a programmer and writes like a poet — using code comments, pseudocode, and object-oriented metaphors to grapple with questions about identity, meaning, and connection. There's a deep humility running through it: the author repeatedly admits to not knowing where things are going, to finding the process messy and uncomfortable, and to suspecting that none of it needs to be read. And yet they wrote it anyway. That's the whole point.
+Taken as a whole, this wiki is a kind of philosophical sketchbook. The recurring themes are: the tension between instinct and intellect (the monkey and its brain), the power and difficulty of language, the absurdity of technology as an extension of primate behavior, and the self-aware struggle of trying to organize thoughts at all. The author thinks like a programmer and writes like a poet — using code comments, pseudocode, and object-oriented metaphors to grapple with questions about identity, meaning, and connection. The newer pages add a collaborative dimension (several written with Claude) and deepen the thread of impermanence: things dissolve, identities compress with loss, you can't escape your own brain. There's a deep humility running through it: the author repeatedly admits to not knowing where things are going, to finding the process messy and uncomfortable, and to suspecting that none of it needs to be read. And yet they wrote it anyway. That's the whole point.
