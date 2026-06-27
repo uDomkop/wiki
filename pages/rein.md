@@ -11,6 +11,6 @@ A barrier no longer.
 
 DEATH AWAITS
 
-Cursader no more.
+Crusader no more.
 ```
 - deDomkop
